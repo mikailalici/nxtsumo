@@ -11,6 +11,6 @@ Two self controlled robots compete and try to push their competitor off the fiel
 
 You need a LEGO NXT Robot set.
 
-Our lego sumo robots are practicing:  https://www.youtube.com/watch?v=N3ZhJdhuqzg
+lEGO SUMO PRACTICE:  https://www.youtube.com/watch?v=N3ZhJdhuqzg
 
 
